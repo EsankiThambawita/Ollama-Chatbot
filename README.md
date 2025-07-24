@@ -27,7 +27,7 @@ A beginner-friendly chatbot that runs 100% locally — no API keys, no internet,
 
 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/local-chatbot.git
+git clone https://github.com/EsankiThambawita/Ollama-Chatbot.git
 cd local-chatbot
 ```
 
